@@ -3,6 +3,12 @@ A present for my soon to be Old Boss...
 
 Merry effin Christmas Mofo!
 
+Released as GPLv2 by CrashSerious.
+
+Use, modify, contribute back... so long as this header stays intact. above ---\/
+
+__________________here_________________
+
  */
 
 void setup() {
